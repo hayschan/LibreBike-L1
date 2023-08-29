@@ -1,6 +1,6 @@
 # LibreBike L1 LED Smart Emoji Tail Light
 
-LibreBike L1 is an open-source LED smart tail light for bicycles inspired by the Magene L308 Bicycle Tail Light. It aims to provide a lightweight, customizable, and feature-rich tail light solution for cyclists. The project is designed to be accessible to everyone, with the source code, PCB schematics, and designs available on GitHub.
+LibreBike L1 is an open-source LED smart tail light for bicycles. It aims to provide a lightweight, customizable, and feature-rich tail light solution for cyclists. The project is designed to be accessible to everyone, with the source code, PCB schematics, and designs available on GitHub.
 
 ## Features
 
@@ -10,7 +10,7 @@ LibreBike L1 is an open-source LED smart tail light for bicycles inspired by the
 
 3. **Type-C Charging Port:** The Type-C charging port ensures fast and convenient charging for your tail light. You can easily recharge it before your next ride, ensuring that you're always prepared.
 
-4. **Customized Graphics:** Personalize your bike with customized graphics for your tail light. Just like the Magene L308, the LibreBike L1 allows you to add a personal touch to your bike and make it stand out from the crowd.
+4. **Customized Graphics:** Personalize your bike with customized graphics for your tail light. LibreBike L1 allows you to add a personal touch to your bike and make it stand out from the crowd.
 
 5. **ANT+ Capability:** Unlike the Magene L308, the LibreBike L1 comes with built-in ANT+ capability. It supports the Bicycle Lights (LGT) ANT+ feature. This enables wireless communication with a bike computer or similar controller mounted on your bike's handlebars. The information transmitted includes manufacturer and product IDs, battery level, light state (on/off), and flashing speed. The ANT+ bike light controller can provide real-time feedback to the cyclist and manage the state of the lights based on user input or automation.
 
@@ -27,6 +27,10 @@ We welcome contributions from the community to enhance and improve the LibreBike
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+## Reference
+
+Inspired by the Magene L308 Bicycle Tail Light.
 
 ## Contact
 
